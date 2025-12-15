@@ -13,6 +13,7 @@ Aplikasi ini adalah studi kasus Pemesanan Makanan berbasis Flutter yang dikemban
 ![Screenshot Halaman Keranjang Belanja](keranjang.png)
 
 ### notes:
+Lanjutan ke tahap pemesanan tapi karena di soal tidak sampai pemesanan jadi tidak dilanjutkan.
 ![Screenshot Halaman lanjutan ke Pemesanan](blm%20kelar.png)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
