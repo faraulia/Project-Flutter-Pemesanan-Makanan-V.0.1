@@ -1,12 +1,20 @@
-# pemesanan_makanan_v1
+# Project Flutter Pemesanan Makanan (V.0.1)
 
-A new Flutter project.
+Aplikasi ini adalah studi kasus Pemesanan Makanan berbasis Flutter yang dikembangkan sebagai tugas PBP. Aplikasi ini memungkinkan pengguna melihat daftar menu, menambah item ke keranjang belanja, dan melihat ringkasan pesanan.
 
-## Getting Started
+## Tampilan Aplikasi (Screenshots)
+### 1. Halaman Utama (Semua Menu)
+![Screenshot Halaman Utama](menu.png)
+### 2. Halaman Daftar Menu Makanan
+![Screenshot Daftar Menu Makanan](makanan.png)
+### 3. Halaman Daftar Menu Minuman
+![Screenshot Daftar Menu Minuman](minuman.png)
+### 4. Halaman Keranjang Belanja
+![Screenshot Halaman Keranjang Belanja](keranjang.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+notes:
+![Screenshot Halaman lanjutan ke Pemesanan](blm kelar.png)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
