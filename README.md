@@ -5,15 +5,14 @@ Aplikasi ini adalah studi kasus Pemesanan Makanan berbasis Flutter yang dikemban
 ## Tampilan Aplikasi (Screenshots)
 ### 1. Halaman Utama (Semua Menu)
 ![Screenshot Halaman Utama](menu.png)
-### 2. Halaman Daftar Menu Makanan
+### 2. Halaman Daftar Menu Makanan Snack
 ![Screenshot Daftar Menu Makanan](menu%20makanan.png)
 ### 3. Halaman Daftar Menu Minuman
 ![Screenshot Daftar Menu Minuman](menu%20minuman.png)
 ### 4. Halaman Keranjang Belanja
 ![Screenshot Halaman Keranjang Belanja](keranjang.png)
 
-
-notes:
+### notes:
 ![Screenshot Halaman lanjutan ke Pemesanan](blm%20kelar.png)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
